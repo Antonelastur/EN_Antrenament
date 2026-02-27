@@ -1,0 +1,962 @@
+{
+  "jsonrpc": "2.0",
+  "id": 2,
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"status\":\"success\",\"count\":94,\"owned_count\":93,\"shared_count\":1,\"shared_by_me_count\":1,\"notebooks\":[{\"id\":\"ed5abb23-8d76-4752-8ce2-ade82b1a6a21\",\"title\":\"Clasa a VIII-a EN\",\"source_count\":47,\"url\":\"https://notebooklm.google.com/notebook/ed5abb23-8d76-4752-8ce2-ade82b1a6a21\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2026-01-06T11:24:47Z\",\"modified_at\":\"2026-02-20T20:34:48Z\"},{\"id\":\"6141c763-1bed-4c1e-b0c9-431203044377\",\"title\":\"Ghid Complet pentru Adaptarea \u0219i Crearea Resurselor Educa\u021bionale Deschise\",\"source_count\":1,\"url\":\"https://notebooklm.google.com/notebook/6141c763-1bed-4c1e-b0c9-431203044377\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2026-02-20T19:26:53Z\",\"modified_at\":\"2026-02-20T19:26:53Z\"},{\"id\":\"6ece3fa9-df14-4c9d-98d9-f07c9d466d6e\",\"title\":\"Pronumele \",\"source_count\":9,\"url\":\"https://notebooklm.google.com/notebook/6ece3fa9-df14-4c9d-98d9-f07c9d466d6e\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2026-02-19T10:36:46Z\",\"modified_at\":\"2026-02-20T19:24:36Z\"},{\"id\":\"a9a50e88-0d0f-4bb2-ba22-815e1db23319\",\"title\":\"Ghidul Structurii \u0219i Redact\u0103rii Textului Argumentativ\",\"source_count\":5,\"url\":\"https://notebooklm.google.com/notebook/a9a50e88-0d0f-4bb2-ba22-815e1db23319\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2026-01-09T16:03:03Z\",\"modified_at\":\"2026-02-20T17:08:31Z\"},{\"id\":\"d1788434-0819-4e7f-b30d-d364fba3b8fc\",\"title\":\"Ghidul Complementului \u0219i al Completivei Prepozi\u021bionale\",\"source_count\":1,\"url\":\"https://notebooklm.google.com/notebook/d1788434-0819-4e7f-b30d-d364fba3b8fc\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2026-02-17T15:51:32Z\",\"modified_at\":\"2026-02-20T17:08:06Z\"},{\"id\":\"f7121742-9b5f-461f-9a85-cb0b8e2a4ebc\",\"title\":\"complementul direct si completiva directa\",\"source_count\":12,\"url\":\"https://notebooklm.google.com/notebook/f7121742-9b5f-461f-9a85-cb0b8e2a4ebc\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2026-02-08T18:58:31Z\",\"modified_at\":\"2026-02-19T19:51:40Z\"},{\"id\":\"d688f22c-7174-4fa0-9a72-d0b39df26710\",\"title\":\"Complementul \u0219i Completiva Indirect\u0103\",\"source_count\":11,\"url\":\"https://notebooklm.google.com/notebook/d688f22c-7174-4fa0-9a72-d0b39df26710\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2026-02-15T17:04:05Z\",\"modified_at\":\"2026-02-17T18:10:24Z\"},{\"id\":\"5b6f2385-2384-4640-acb3-f2480ea3566a\",\"title\":\"\",\"source_count\":0,\"url\":\"https://notebooklm.google.com/notebook/5b6f2385-2384-4640-acb3-f2480ea3566a\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2026-02-17T15:51:32Z\",\"modified_at\":\"2026-02-17T15:51:32Z\"},{\"id\":\"825adcbb-5fa6-4256-9aac-5803627f66f6\",\"title\":\"Mecanismele Democra\u021biei: Votul \u0219i Procesul Electoral \u00een Rom\u00e2nia\",\"source_count\":1,\"url\":\"https://notebooklm.google.com/notebook/825adcbb-5fa6-4256-9aac-5803627f66f6\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2026-02-16T18:24:40Z\",\"modified_at\":\"2026-02-16T18:24:41Z\"},{\"id\":\"5821b7c1-5d74-414a-bc9a-5697c7a73df2\",\"title\":\"\",\"source_count\":0,\"url\":\"https://notebooklm.google.com/notebook/5821b7c1-5d74-414a-bc9a-5697c7a73df2\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2026-02-15T17:04:05Z\",\"modified_at\":\"2026-02-15T17:04:05Z\"},{\"id\":\"108d76b7-988c-4f98-b82c-0bd4f7ab63eb\",\"title\":\"Sintaxa \u0219i Func\u021biile Sintactice ale Adjectivului\",\"source_count\":1,\"url\":\"https://notebooklm.google.com/notebook/108d76b7-988c-4f98-b82c-0bd4f7ab63eb\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2026-02-08T18:30:11Z\",\"modified_at\":\"2026-02-11T18:36:20Z\"},{\"id\":\"e757ad4a-510f-497b-9581-c3a4715ddd5b\",\"title\":\"Substantivul\",\"source_count\":12,\"url\":\"https://notebooklm.google.com/notebook/e757ad4a-510f-497b-9581-c3a4715ddd5b\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2026-02-01T13:31:30Z\",\"modified_at\":\"2026-02-11T18:36:17Z\"},{\"id\":\"6d79f253-8855-446a-8009-37bc6e75fee8\",\"title\":\"Ghid pentru Analiza Mesajului Literar\",\"source_count\":1,\"url\":\"https://notebooklm.google.com/notebook/6d79f253-8855-446a-8009-37bc6e75fee8\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2026-01-30T21:27:46Z\",\"modified_at\":\"2026-02-11T18:36:17Z\"},{\"id\":\"4d18a90d-2c68-4287-816a-c59a9f47b106\",\"title\":\"\",\"source_count\":7,\"url\":\"https://notebooklm.google.com/notebook/4d18a90d-2c68-4287-816a-c59a9f47b106\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2026-02-10T18:10:36Z\",\"modified_at\":\"2026-02-10T18:10:37Z\"},{\"id\":\"fd5eb9b1-97f8-4e11-83bc-e386ab6541bb\",\"title\":\"EN\",\"source_count\":26,\"url\":\"https://notebooklm.google.com/notebook/fd5eb9b1-97f8-4e11-83bc-e386ab6541bb\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2026-01-21T16:12:25Z\",\"modified_at\":\"2026-02-08T06:07:28Z\"},{\"id\":\"caf238e1-ac66-47c6-9906-460497485779\",\"title\":\"Ghid pentru Analiza Mesajului Literar\",\"source_count\":2,\"url\":\"https://notebooklm.google.com/notebook/caf238e1-ac66-47c6-9906-460497485779\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2026-01-30T19:34:02Z\",\"modified_at\":\"2026-02-08T04:14:33Z\"},{\"id\":\"9e1f7af9-2a12-4753-a3c5-9ac689d7e798\",\"title\":\"Simulare Evalu\u0103rii Na\u021bionale\",\"source_count\":1,\"url\":\"https://notebooklm.google.com/notebook/9e1f7af9-2a12-4753-a3c5-9ac689d7e798\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2026-02-06T20:49:17Z\",\"modified_at\":\"2026-02-06T20:49:26Z\"},{\"id\":\"736ffcfd-6867-452f-a19b-6379bc5c4933\",\"title\":\"SKILS ANTIGRAVITY\",\"source_count\":18,\"url\":\"https://notebooklm.google.com/notebook/736ffcfd-6867-452f-a19b-6379bc5c4933\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2026-02-04T14:56:47Z\",\"modified_at\":\"2026-02-04T14:56:48Z\"},{\"id\":\"aa794a56-c4fb-4e52-9522-3eaf0969eb4f\",\"title\":\"Organigrama \u0218colii Gimnaziale Petru Com\u0103rnescu 2025-2026\",\"source_count\":1,\"url\":\"https://notebooklm.google.com/notebook/aa794a56-c4fb-4e52-9522-3eaf0969eb4f\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2026-01-29T17:15:50Z\",\"modified_at\":\"2026-02-04T04:54:04Z\"},{\"id\":\"7294afd8-79ad-4802-842a-bcd744d8130f\",\"title\":\"Borderou Evaluare Na\u021bional\u0103 2026 Limba Rom\u00e2n\u0103 Suceava\",\"source_count\":4,\"url\":\"https://notebooklm.google.com/notebook/7294afd8-79ad-4802-842a-bcd744d8130f\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2026-01-29T15:01:09Z\",\"modified_at\":\"2026-02-03T15:58:17Z\"},{\"id\":\"2c13f1a6-755c-4bd3-8072-b790bfb2ba68\",\"title\":\"Barem Simulare Evaluare Na\u021bional\u0103 2025 Limba Rom\u00e2n\u0103 Cluj\",\"source_count\":2,\"url\":\"https://notebooklm.google.com/notebook/2c13f1a6-755c-4bd3-8072-b790bfb2ba68\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2025-12-22T21:12:29Z\",\"modified_at\":\"2026-02-03T15:51:32Z\"},{\"id\":\"960d9bc8-d2e9-493f-86e9-f14894d0a9d3\",\"title\":\"C D \u0218\",\"source_count\":12,\"url\":\"https://notebooklm.google.com/notebook/960d9bc8-d2e9-493f-86e9-f14894d0a9d3\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2025-12-29T10:07:16Z\",\"modified_at\":\"2026-02-02T16:46:11Z\"},{\"id\":\"2fd099c8-132f-44c9-840f-9fbc2b0d5456\",\"title\":\"Ghid de Scenariu pentru Romane Grafice AI\",\"source_count\":11,\"url\":\"https://notebooklm.google.com/notebook/2fd099c8-132f-44c9-840f-9fbc2b0d5456\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2026-01-30T21:09:23Z\",\"modified_at\":\"2026-02-02T15:45:52Z\"},{\"id\":\"2946d888-dc36-4815-a60b-b45dbbcdbd16\",\"title\":\"Cambia tu vida en un dia\",\"source_count\":1,\"url\":\"https://notebooklm.google.com/notebook/2946d888-dc36-4815-a60b-b45dbbcdbd16\",\"ownership\":\"shared_with_me\",\"is_shared\":true,\"created_at\":\"2026-01-31T12:03:37Z\",\"modified_at\":\"2026-02-02T05:00:47Z\"},{\"id\":\"b780ac19-4507-44e2-b2bc-b6b3f673f985\",\"title\":\"Carol TV\",\"source_count\":5,\"url\":\"https://notebooklm.google.com/notebook/b780ac19-4507-44e2-b2bc-b6b3f673f985\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2026-01-31T19:08:23Z\",\"modified_at\":\"2026-02-01T16:57:13Z\"},{\"id\":\"f3106878-89f9-4b25-8f2f-8cf080003281\",\"title\":\"Inginer de prompt\",\"source_count\":47,\"url\":\"https://notebooklm.google.com/notebook/f3106878-89f9-4b25-8f2f-8cf080003281\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2026-02-01T13:13:27Z\",\"modified_at\":\"2026-02-01T13:13:28Z\"},{\"id\":\"edbf4c84-8778-480f-9782-736c19988309\",\"title\":\"Metodologia de Organizare a Programului S\u0103pt\u0103m\u00e2na Verde\",\"source_count\":13,\"url\":\"https://notebooklm.google.com/notebook/edbf4c84-8778-480f-9782-736c19988309\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2026-01-23T19:22:58Z\",\"modified_at\":\"2026-02-01T13:12:12Z\"},{\"id\":\"92eb6d7e-e77d-4b93-8896-2b85d73c3236\",\"title\":\"Ghid de Redactare a Cronicii de Film\",\"source_count\":1,\"url\":\"https://notebooklm.google.com/notebook/92eb6d7e-e77d-4b93-8896-2b85d73c3236\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2026-01-19T18:23:57Z\",\"modified_at\":\"2026-01-31T17:46:29Z\"},{\"id\":\"f8278d6c-ae99-448d-aa3b-3c09dba0c6db\",\"title\":\"Povestea kendamei pierdute: O istorie din Ferentari\",\"source_count\":1,\"url\":\"https://notebooklm.google.com/notebook/f8278d6c-ae99-448d-aa3b-3c09dba0c6db\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2026-01-31T16:28:57Z\",\"modified_at\":\"2026-01-31T17:41:05Z\"},{\"id\":\"5b8adedd-4a32-4e9d-8931-1882497167da\",\"title\":\"\u021aara Obiectelor cu Suflet \u0219i Limba AFCA\",\"source_count\":1,\"url\":\"https://notebooklm.google.com/notebook/5b8adedd-4a32-4e9d-8931-1882497167da\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2025-12-27T12:08:37Z\",\"modified_at\":\"2026-01-30T18:43:18Z\"},{\"id\":\"f1929b01-8a09-4fac-856f-82cf697976a6\",\"title\":\"Organigrama \u0218colii Gimnaziale \u201ePetru Com\u0103rnescu\u201d 2025-2026\",\"source_count\":1,\"url\":\"https://notebooklm.google.com/notebook/f1929b01-8a09-4fac-856f-82cf697976a6\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2026-01-29T18:43:16Z\",\"modified_at\":\"2026-01-29T18:45:25Z\"},{\"id\":\"62d986a0-7e94-44a1-9b12-9363295be747\",\"title\":\"Marin Sorescu \u0219i Jocul de-a V-a\u021bi Ascunselea \u00een Poezia Modern\u0103\",\"source_count\":10,\"url\":\"https://notebooklm.google.com/notebook/62d986a0-7e94-44a1-9b12-9363295be747\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2026-01-25T20:21:01Z\",\"modified_at\":\"2026-01-27T21:36:38Z\"},{\"id\":\"a2bee031-8376-42de-b3a5-8af47a8b7252\",\"title\":\"Orizonturi \u0219i Valori \u00een Literatura Rom\u00e2n\u0103 Clasic\u0103 \u0219i Modern\u0103\",\"source_count\":7,\"url\":\"https://notebooklm.google.com/notebook/a2bee031-8376-42de-b3a5-8af47a8b7252\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2026-01-26T16:36:31Z\",\"modified_at\":\"2026-01-26T16:36:32Z\"},{\"id\":\"1cce83ab-4038-4124-a86d-a110f62bbe9b\",\"title\":\"Busola Pedagogic\u0103: Integrarea Modelului SAMR \u0219i Taxonomia lui Bloom\",\"source_count\":1,\"url\":\"https://notebooklm.google.com/notebook/1cce83ab-4038-4124-a86d-a110f62bbe9b\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2026-01-25T12:43:39Z\",\"modified_at\":\"2026-01-25T12:43:48Z\"},{\"id\":\"4467624b-57f0-4453-8bf7-54c418de1513\",\"title\":\"Ghidul Complet al Atributului \u00een Limba Rom\u00e2n\u0103\",\"source_count\":2,\"url\":\"https://notebooklm.google.com/notebook/4467624b-57f0-4453-8bf7-54c418de1513\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2025-12-19T18:40:34Z\",\"modified_at\":\"2026-01-24T15:48:32Z\"},{\"id\":\"3de633aa-3bb3-419a-99db-b3d8f2559eaa\",\"title\":\"Predarea Spaniolei Copiilor \u0219i Adolescen\u021bilor: Tendin\u021be \u0219i Abord\u0103ri\",\"source_count\":26,\"url\":\"https://notebooklm.google.com/notebook/3de633aa-3bb3-419a-99db-b3d8f2559eaa\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2025-11-22T16:58:56Z\",\"modified_at\":\"2026-01-22T19:45:47Z\"},{\"id\":\"8faac571-bf22-4ce9-a47f-0eab7d2e69c5\",\"title\":\"Democra\u021bia Participativ\u0103 \u0219i Procesul Legislativ \u00een Rom\u00e2nia\",\"source_count\":1,\"url\":\"https://notebooklm.google.com/notebook/8faac571-bf22-4ce9-a47f-0eab7d2e69c5\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2026-01-19T20:02:32Z\",\"modified_at\":\"2026-01-19T20:02:36Z\"},{\"id\":\"9305767b-3c97-4b64-b96d-59775a86d53a\",\"title\":\"Sintaxa Frazei: Raporturi Logice \u0219i Elipsa\",\"source_count\":2,\"url\":\"https://notebooklm.google.com/notebook/9305767b-3c97-4b64-b96d-59775a86d53a\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2026-01-19T16:57:30Z\",\"modified_at\":\"2026-01-19T18:49:52Z\"},{\"id\":\"4a5ae694-cac1-4e33-82d9-04972dce4a8f\",\"title\":\"Verbele \u0219i Construc\u021biile Impersonale: Teorie \u0219i Aplica\u021bii\",\"source_count\":1,\"url\":\"https://notebooklm.google.com/notebook/4a5ae694-cac1-4e33-82d9-04972dce4a8f\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2026-01-17T18:41:36Z\",\"modified_at\":\"2026-01-19T16:00:50Z\"},{\"id\":\"93e74534-be60-4c03-870f-6590d828f2d1\",\"title\":\"Ghid de analiz\u0103 \u0219i structur\u0103 poetic\u0103\",\"source_count\":17,\"url\":\"https://notebooklm.google.com/notebook/93e74534-be60-4c03-870f-6590d828f2d1\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2026-01-13T20:15:52Z\",\"modified_at\":\"2026-01-18T17:23:15Z\"},{\"id\":\"75a83499-3aec-4654-8542-df646bd5d94d\",\"title\":\"Ghid Teoretic \u0219i Aplicativ privind Subiectul \u00een Limba Rom\u00e2n\u0103\",\"source_count\":2,\"url\":\"https://notebooklm.google.com/notebook/75a83499-3aec-4654-8542-df646bd5d94d\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2026-01-13T19:26:03Z\",\"modified_at\":\"2026-01-13T20:14:57Z\"},{\"id\":\"ee2557a5-d052-469b-8912-e877d07cc745\",\"title\":\"Ghid Complet pentru Analiza Predicatului verbal \u0219i nominal\",\"source_count\":2,\"url\":\"https://notebooklm.google.com/notebook/ee2557a5-d052-469b-8912-e877d07cc745\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2026-01-11T20:01:22Z\",\"modified_at\":\"2026-01-12T19:43:04Z\"},{\"id\":\"06e44f54-a7c0-4175-bc12-1aedc739f73d\",\"title\":\"Limba \u0219i Literatura Rom\u00e2n\u0103 Gimnaziu\",\"source_count\":15,\"url\":\"https://notebooklm.google.com/notebook/06e44f54-a7c0-4175-bc12-1aedc739f73d\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2026-01-10T08:40:28Z\",\"modified_at\":\"2026-01-10T21:50:15Z\"},{\"id\":\"03121cfe-07e3-45f8-8fdf-31dcae6c1ac3\",\"title\":\"Storytelling\",\"source_count\":11,\"url\":\"https://notebooklm.google.com/notebook/03121cfe-07e3-45f8-8fdf-31dcae6c1ac3\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2026-01-04T16:38:30Z\",\"modified_at\":\"2026-01-10T21:34:45Z\"},{\"id\":\"3fa595cf-da2c-4c00-9c78-917121659a74\",\"title\":\"Sucesos de mi jard\u00edn\",\"source_count\":1,\"url\":\"https://notebooklm.google.com/notebook/3fa595cf-da2c-4c00-9c78-917121659a74\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2025-01-30T07:02:56Z\",\"modified_at\":\"2026-01-10T15:09:37Z\"},{\"id\":\"c0d91700-ac86-4dfa-838f-63335347c0d8\",\"title\":\"Predicatul: Forme \u0219i Func\u021bii Sintactice\",\"source_count\":3,\"url\":\"https://notebooklm.google.com/notebook/c0d91700-ac86-4dfa-838f-63335347c0d8\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2025-12-01T09:36:29Z\",\"modified_at\":\"2026-01-08T20:19:24Z\"},{\"id\":\"d6b98a58-d36b-49c6-8737-ef1937b36d7d\",\"title\":\"Transformarea Activ-Pasiv: Subiect \u0219i Agent\",\"source_count\":4,\"url\":\"https://notebooklm.google.com/notebook/d6b98a58-d36b-49c6-8737-ef1937b36d7d\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2025-12-01T08:48:12Z\",\"modified_at\":\"2026-01-08T17:59:22Z\"},{\"id\":\"65c213a2-b423-4d3e-a454-f42edcf4f5eb\",\"title\":\"Mo\u0219tenirea Romei: De la Caesar la Colosseum\",\"source_count\":4,\"url\":\"https://notebooklm.google.com/notebook/65c213a2-b423-4d3e-a454-f42edcf4f5eb\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2026-01-07T21:11:11Z\",\"modified_at\":\"2026-01-07T22:22:20Z\"},{\"id\":\"dbe48043-f3b7-4767-9585-ca3af9f5388e\",\"title\":\"Ghidul Adverbului: Tipuri \u0219i Func\u021bii Sintactice\",\"source_count\":2,\"url\":\"https://notebooklm.google.com/notebook/dbe48043-f3b7-4767-9585-ca3af9f5388e\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2026-01-07T13:51:53Z\",\"modified_at\":\"2026-01-07T13:52:03Z\"},{\"id\":\"8999c3a1-700d-48f7-b090-9ff2ca529c5a\",\"title\":\"Ghid Complet al Pronumelui: Morfologie, Sintax\u0103 \u0219i Valori Stilistice\",\"source_count\":13,\"url\":\"https://notebooklm.google.com/notebook/8999c3a1-700d-48f7-b090-9ff2ca529c5a\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2025-12-29T04:19:50Z\",\"modified_at\":\"2026-01-07T07:13:34Z\"},{\"id\":\"97ad905a-3ad4-47d8-9627-57a186759077\",\"title\":\"Ghid de Digitalizare a Pred\u0103rii Limbii Rom\u00e2ne prin IA\",\"source_count\":1,\"url\":\"https://notebooklm.google.com/notebook/97ad905a-3ad4-47d8-9627-57a186759077\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2025-12-26T10:28:48Z\",\"modified_at\":\"2026-01-07T06:57:37Z\"},{\"id\":\"0b5fc5bb-416c-4804-b7d6-2aa6f9cf1e12\",\"title\":\"Jacobo Grinberg: \u0218tiin\u021b\u0103, \u0218amanism \u0219i Misterul Dispari\u021biei Sale\",\"source_count\":9,\"url\":\"https://notebooklm.google.com/notebook/0b5fc5bb-416c-4804-b7d6-2aa6f9cf1e12\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2026-01-06T19:30:33Z\",\"modified_at\":\"2026-01-06T21:19:06Z\"},{\"id\":\"d50689e7-5286-479f-8152-71ea88979aea\",\"title\":\"Manual RO IA\",\"source_count\":46,\"url\":\"https://notebooklm.google.com/notebook/d50689e7-5286-479f-8152-71ea88979aea\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2026-01-06T11:18:09Z\",\"modified_at\":\"2026-01-06T12:23:08Z\"},{\"id\":\"dba1bdd4-d661-478e-b611-b3064d823261\",\"title\":\"Ghidul Cursantului: Institutul Cervantes Bucure\u0219ti 2025\",\"source_count\":39,\"url\":\"https://notebooklm.google.com/notebook/dba1bdd4-d661-478e-b611-b3064d823261\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2026-01-04T18:39:51Z\",\"modified_at\":\"2026-01-06T08:04:45Z\"},{\"id\":\"f2c964d4-287a-40d9-96ee-714499f3a51a\",\"title\":\"\u0218coala Principele Carol: Tradi\u021bie \u0219i Modernitate \u00een Gura Humorului\",\"source_count\":11,\"url\":\"https://notebooklm.google.com/notebook/f2c964d4-287a-40d9-96ee-714499f3a51a\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2026-01-03T15:27:07Z\",\"modified_at\":\"2026-01-03T15:27:08Z\"},{\"id\":\"43751af2-7c89-4699-afa9-24195ef09392\",\"title\":\"G\u00e2ndirea Critic\u0103: Fundamente, Strategii \u0219i Formare Profesional\u0103\",\"source_count\":9,\"url\":\"https://notebooklm.google.com/notebook/43751af2-7c89-4699-afa9-24195ef09392\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2026-01-02T09:57:51Z\",\"modified_at\":\"2026-01-02T09:58:26Z\"},{\"id\":\"2d974c9f-287c-45d5-8881-54a894320d49\",\"title\":\"Fise de lectur\u0103 model \",\"source_count\":9,\"url\":\"https://notebooklm.google.com/notebook/2d974c9f-287c-45d5-8881-54a894320d49\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2025-12-27T17:52:38Z\",\"modified_at\":\"2025-12-29T16:53:46Z\"},{\"id\":\"075cdb7f-a5ea-470e-8a55-3d7d022ef96d\",\"title\":\"Iapa lui Vod\u0103 \u0219i dreptatea r\u0103z\u0103\u0219ului Ioni\u021b\u0103\",\"source_count\":3,\"url\":\"https://notebooklm.google.com/notebook/075cdb7f-a5ea-470e-8a55-3d7d022ef96d\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2025-12-27T17:51:45Z\",\"modified_at\":\"2025-12-27T21:38:34Z\"},{\"id\":\"18522b6b-47b5-47fb-a41a-d3a4dd82c1b2\",\"title\":\"Evaluare Na\u021bional\u0103 Rom\u00e2n\u0103 Simulare\",\"source_count\":10,\"url\":\"https://notebooklm.google.com/notebook/18522b6b-47b5-47fb-a41a-d3a4dd82c1b2\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2025-12-27T19:03:28Z\",\"modified_at\":\"2025-12-27T19:03:28Z\"},{\"id\":\"b34181d0-189c-45e0-a27c-a04b2a604dda\",\"title\":\"Ghidul Complet al Construc\u021biilor Reflexe \u00een Limba Rom\u00e2n\u0103\",\"source_count\":5,\"url\":\"https://notebooklm.google.com/notebook/b34181d0-189c-45e0-a27c-a04b2a604dda\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2025-12-21T06:23:22Z\",\"modified_at\":\"2025-12-22T20:37:22Z\"},{\"id\":\"2e71cf65-b36a-4be0-ae8d-e79c91e85bf6\",\"title\":\"Regulament \u0218colar de Conduit\u0103, Lini\u0219te \u0219i Cur\u0103\u021benie\",\"source_count\":2,\"url\":\"https://notebooklm.google.com/notebook/2e71cf65-b36a-4be0-ae8d-e79c91e85bf6\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2025-12-10T16:35:16Z\",\"modified_at\":\"2025-12-22T17:28:27Z\"},{\"id\":\"34a3d014-d5ef-41a6-b4c3-b8237e15c18e\",\"title\":\"Punctaje Simulare Limba Rom\u00e2n\u0103 EN VIII 2025\",\"source_count\":4,\"url\":\"https://notebooklm.google.com/notebook/34a3d014-d5ef-41a6-b4c3-b8237e15c18e\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2025-11-29T19:57:39Z\",\"modified_at\":\"2025-12-20T05:31:34Z\"},{\"id\":\"2bac3f7c-2b76-45fd-aa8c-e603c8999d11\",\"title\":\"Textul Narativ: Tr\u0103s\u0103turi \u0219i Structur\u0103\",\"source_count\":1,\"url\":\"https://notebooklm.google.com/notebook/2bac3f7c-2b76-45fd-aa8c-e603c8999d11\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2025-12-18T04:58:23Z\",\"modified_at\":\"2025-12-19T08:02:19Z\"},{\"id\":\"bd997559-b59a-4752-ac9a-3185afca15aa\",\"title\":\"Onomastic\u0103 \u0219i Caracterizare de Personaj\",\"source_count\":10,\"url\":\"https://notebooklm.google.com/notebook/bd997559-b59a-4752-ac9a-3185afca15aa\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2025-12-17T03:48:51Z\",\"modified_at\":\"2025-12-17T03:52:15Z\"},{\"id\":\"1c1141dd-6813-476f-894b-0c8707f21c83\",\"title\":\"Pronumele func\u021bii sintactice \",\"source_count\":4,\"url\":\"https://notebooklm.google.com/notebook/1c1141dd-6813-476f-894b-0c8707f21c83\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2025-12-14T16:44:21Z\",\"modified_at\":\"2025-12-14T18:48:23Z\"},{\"id\":\"3eeb91d7-13b0-41e9-91a2-496fc882423c\",\"title\":\"Arhitectura \u0219i Tipologia Textului\",\"source_count\":1,\"url\":\"https://notebooklm.google.com/notebook/3eeb91d7-13b0-41e9-91a2-496fc882423c\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2025-12-07T19:57:07Z\",\"modified_at\":\"2025-12-07T19:57:31Z\"},{\"id\":\"87d7cf6b-91a9-4033-a249-5d117b74eb5f\",\"title\":\"De Ce \u0219i Pentru Ce: Circumstan\u021bialele\",\"source_count\":1,\"url\":\"https://notebooklm.google.com/notebook/87d7cf6b-91a9-4033-a249-5d117b74eb5f\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2025-12-02T12:29:45Z\",\"modified_at\":\"2025-12-07T19:31:30Z\"},{\"id\":\"138c9989-3a7f-47f7-9f2d-db8958e98de4\",\"title\":\"Take, Ianke \u0219i Cad\u00e2r: Comedie \u00een Trei Acte\",\"source_count\":41,\"url\":\"https://notebooklm.google.com/notebook/138c9989-3a7f-47f7-9f2d-db8958e98de4\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2025-11-05T18:07:14Z\",\"modified_at\":\"2025-12-07T14:48:49Z\"},{\"id\":\"c0a7d2e9-53f5-4a9d-bbf0-0b9916a18684\",\"title\":\"Agenda \u0218colii Petru Comarnescu\",\"source_count\":1,\"url\":\"https://notebooklm.google.com/notebook/c0a7d2e9-53f5-4a9d-bbf0-0b9916a18684\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2025-12-07T07:57:30Z\",\"modified_at\":\"2025-12-07T10:08:50Z\"},{\"id\":\"22031029-e6cf-4d5d-a318-1b28d5321d81\",\"title\":\"Diagrama de Influen\u021b\u0103 Reciproc\u0103\",\"source_count\":1,\"url\":\"https://notebooklm.google.com/notebook/22031029-e6cf-4d5d-a318-1b28d5321d81\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2025-11-29T11:37:48Z\",\"modified_at\":\"2025-11-29T11:37:59Z\"},{\"id\":\"f35779f0-0b26-48b9-951b-61130237daf2\",\"title\":\"Ghidul Hibern\u0103rii Buganvillea: De la Toamn\u0103 la \u00cenflorire\",\"source_count\":1,\"url\":\"https://notebooklm.google.com/notebook/f35779f0-0b26-48b9-951b-61130237daf2\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2025-11-28T16:04:59Z\",\"modified_at\":\"2025-11-28T16:05:09Z\"},{\"id\":\"8d3eca5f-b243-4e02-a6ac-4db5b8bef8c5\",\"title\":\"Tipologie \u0219i Caracterizare Literar\u0103\",\"source_count\":3,\"url\":\"https://notebooklm.google.com/notebook/8d3eca5f-b243-4e02-a6ac-4db5b8bef8c5\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2025-11-27T17:48:40Z\",\"modified_at\":\"2025-11-27T17:48:43Z\"},{\"id\":\"bd994cdf-b9ae-49cb-939a-ec56eeee2387\",\"title\":\"Valoarea Morfologic\u0103 \u0219i Sintactic\u0103 a Verbului\",\"source_count\":2,\"url\":\"https://notebooklm.google.com/notebook/bd994cdf-b9ae-49cb-939a-ec56eeee2387\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2025-11-23T20:05:18Z\",\"modified_at\":\"2025-11-25T18:13:30Z\"},{\"id\":\"54f6b5d5-6a5e-413c-a797-f6b171fc7ef0\",\"title\":\"Verbul, Locu\u021biunea Verbal\u0103 \u0219i Verbele Copulative\",\"source_count\":16,\"url\":\"https://notebooklm.google.com/notebook/54f6b5d5-6a5e-413c-a797-f6b171fc7ef0\",\"ownership\":\"owned\",\"is_shared\":true,\"created_at\":\"2025-11-17T19:21:31Z\",\"modified_at\":\"2025-11-25T18:13:08Z\"},{\"id\":\"c9238ffe-412b-4601-bff1-c702b0973467\",\"title\":\"Take, Ianke \u0219i Cad\u00e2r\",\"source_count\":2,\"url\":\"https://notebooklm.google.com/notebook/c9238ffe-412b-4601-bff1-c702b0973467\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2025-11-23T16:30:04Z\",\"modified_at\":\"2025-11-23T16:30:05Z\"},{\"id\":\"f5cc8d03-d0e5-4336-842d-bf6a4044e51f\",\"title\":\"Devino de Nerecunoscut \u00eentr-o S\u0103pt\u0103m\u00e2n\u0103: Neuro\u0219tiin\u021ba Schimb\u0103rii\",\"source_count\":1,\"url\":\"https://notebooklm.google.com/notebook/f5cc8d03-d0e5-4336-842d-bf6a4044e51f\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2025-11-20T03:35:21Z\",\"modified_at\":\"2025-11-21T18:27:02Z\"},{\"id\":\"0345d402-b6ba-4710-a5cd-b2c26f7fdf90\",\"title\":\"Plan de Lec\u021bie Popa Tanda: Familiarizare Text Narativ\",\"source_count\":3,\"url\":\"https://notebooklm.google.com/notebook/0345d402-b6ba-4710-a5cd-b2c26f7fdf90\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2025-10-23T11:49:58Z\",\"modified_at\":\"2025-11-15T20:08:12Z\"},{\"id\":\"f2aedf62-9597-49a4-8db3-b6c6ebca576c\",\"title\":\"Evolu\u021bia \u0219i Reglementarea \u00cenv\u0103\u021b\u0103m\u00e2ntului \u00een Rom\u00e2nia\",\"source_count\":10,\"url\":\"https://notebooklm.google.com/notebook/f2aedf62-9597-49a4-8db3-b6c6ebca576c\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2025-11-12T04:19:07Z\",\"modified_at\":\"2025-11-12T19:12:50Z\"},{\"id\":\"d5a14091-e2d5-45fa-85ef-459d50d0c2db\",\"title\":\"Coeren\u021b\u0103 Textual\u0103 \u0219i Anafor\u0103\",\"source_count\":1,\"url\":\"https://notebooklm.google.com/notebook/d5a14091-e2d5-45fa-85ef-459d50d0c2db\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2025-11-11T18:48:08Z\",\"modified_at\":\"2025-11-11T18:48:31Z\"},{\"id\":\"a08b024d-8074-486e-84fb-e961911750e0\",\"title\":\"Constitu\u021bia \u0219i Principiile Fundamentale ale Rom\u00e2niei\",\"source_count\":5,\"url\":\"https://notebooklm.google.com/notebook/a08b024d-8074-486e-84fb-e961911750e0\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2025-11-09T13:07:04Z\",\"modified_at\":\"2025-11-10T18:31:53Z\"},{\"id\":\"17e9b246-e1e1-4eab-84e7-c0a163894321\",\"title\":\"Lec\u021bia de citire\",\"source_count\":4,\"url\":\"https://notebooklm.google.com/notebook/17e9b246-e1e1-4eab-84e7-c0a163894321\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2025-10-25T07:33:10Z\",\"modified_at\":\"2025-11-04T17:32:19Z\"},{\"id\":\"617d353d-63bd-4871-a2d6-a4ee776c1b23\",\"title\":\"Un Scandalo \u00een Boemia\",\"source_count\":1,\"url\":\"https://notebooklm.google.com/notebook/617d353d-63bd-4871-a2d6-a4ee776c1b23\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2025-10-02T12:37:51Z\",\"modified_at\":\"2025-10-24T03:47:11Z\"},{\"id\":\"ed95c5c4-3179-4822-b0a4-7fdcdfb8705a\",\"title\":\"Al Treilea Val: O Nou\u0103 Civiliza\u021bie\",\"source_count\":1,\"url\":\"https://notebooklm.google.com/notebook/ed95c5c4-3179-4822-b0a4-7fdcdfb8705a\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2025-10-09T10:12:04Z\",\"modified_at\":\"2025-10-19T16:24:21Z\"},{\"id\":\"2ab4ffbb-5e12-419a-8806-f33d08c4d59d\",\"title\":\"Ghidul Profesorului: Limba \u0219i Literatura Rom\u00e2n\u0103, Clasa a VII-a\",\"source_count\":1,\"url\":\"https://notebooklm.google.com/notebook/2ab4ffbb-5e12-419a-8806-f33d08c4d59d\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2025-10-13T03:52:17Z\",\"modified_at\":\"2025-10-13T03:52:52Z\"},{\"id\":\"c44a80ea-f6a8-49a8-b263-48c07bfcaea2\",\"title\":\"Clasa a 8-a / rom\u00e2n\u0103\",\"source_count\":13,\"url\":\"https://notebooklm.google.com/notebook/c44a80ea-f6a8-49a8-b263-48c07bfcaea2\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2025-08-30T10:43:32Z\",\"modified_at\":\"2025-10-12T16:05:56Z\"},{\"id\":\"ebb2b465-fe01-469e-8ff9-49acfe78125f\",\"title\":\"Ghid pentru Redescoperirea Umanit\u0103\u021bii: Hai S\u0103 Fim Oameni\",\"source_count\":1,\"url\":\"https://notebooklm.google.com/notebook/ebb2b465-fe01-469e-8ff9-49acfe78125f\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2025-10-12T07:26:17Z\",\"modified_at\":\"2025-10-12T07:26:28Z\"},{\"id\":\"e6f23068-eea1-4b07-afec-230c076debf8\",\"title\":\"Ghidul de \u00cenv\u0103\u021bare Bazat\u0103 pe Proiecte: Joc \u0219i Incluziune\",\"source_count\":1,\"url\":\"https://notebooklm.google.com/notebook/e6f23068-eea1-4b07-afec-230c076debf8\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2025-10-06T12:44:03Z\",\"modified_at\":\"2025-10-06T12:44:04Z\"},{\"id\":\"8acdc169-05c3-4ab3-a872-616d3a5b742a\",\"title\":\"Gramatic\u0103 \u0219i Literatur\u0103: Unit\u0103\u021bi de Studiu\",\"source_count\":5,\"url\":\"https://notebooklm.google.com/notebook/8acdc169-05c3-4ab3-a872-616d3a5b742a\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2025-10-05T12:46:15Z\",\"modified_at\":\"2025-10-05T12:46:15Z\"},{\"id\":\"a515f0e0-d5aa-49d0-b1df-52fdf1ab939e\",\"title\":\"G\u00e2ndirea lui Sherlock Holmes: Metoda Deductiv\u0103\",\"source_count\":2,\"url\":\"https://notebooklm.google.com/notebook/a515f0e0-d5aa-49d0-b1df-52fdf1ab939e\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2025-09-15T20:47:30Z\",\"modified_at\":\"2025-10-05T10:16:19Z\"},{\"id\":\"f226abc0-7f91-4441-aba8-3ec61fe840b8\",\"title\":\"Aventurile lui Sherlock Holmes\",\"source_count\":1,\"url\":\"https://notebooklm.google.com/notebook/f226abc0-7f91-4441-aba8-3ec61fe840b8\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2025-09-25T02:49:58Z\",\"modified_at\":\"2025-09-25T02:49:58Z\"},{\"id\":\"f541611a-06b3-4f05-b813-508f4817f8f8\",\"title\":\"No\u021biuni Esen\u021biale de Fonetic\u0103 Rom\u00e2n\u0103\",\"source_count\":2,\"url\":\"https://notebooklm.google.com/notebook/f541611a-06b3-4f05-b813-508f4817f8f8\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2025-09-11T17:33:38Z\",\"modified_at\":\"2025-09-12T11:38:03Z\"},{\"id\":\"dfd3d5c9-46b4-4896-9eab-91ed2c2cf3b1\",\"title\":\"O, R\u0103m\u00e2i... \u0219i Frumuse\u021bea Naturii\",\"source_count\":1,\"url\":\"https://notebooklm.google.com/notebook/dfd3d5c9-46b4-4896-9eab-91ed2c2cf3b1\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2025-09-08T16:52:18Z\",\"modified_at\":\"2025-09-08T18:21:23Z\"},{\"id\":\"d03e6807-d193-4de5-9e1f-751715d965e6\",\"title\":\"Proyectos del pasado\",\"source_count\":3,\"url\":\"https://notebooklm.google.com/notebook/d03e6807-d193-4de5-9e1f-751715d965e6\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2024-10-15T06:53:32Z\",\"modified_at\":\"2025-07-27T11:34:02Z\"},{\"id\":\"f69e0f93-9d4c-4eba-a88a-f55cab3a0276\",\"title\":\"El Poder Oculto de Tu Voz: Identidad y Lenguaje\",\"source_count\":1,\"url\":\"https://notebooklm.google.com/notebook/f69e0f93-9d4c-4eba-a88a-f55cab3a0276\",\"ownership\":\"owned\",\"is_shared\":false,\"created_at\":\"2025-02-18T09:16:24Z\",\"modified_at\":\"2025-02-18T10:35:07Z\"}]}"
+      }
+    ],
+    "structuredContent": {
+      "status": "success",
+      "count": 94,
+      "owned_count": 93,
+      "shared_count": 1,
+      "shared_by_me_count": 1,
+      "notebooks": [
+        {
+          "id": "ed5abb23-8d76-4752-8ce2-ade82b1a6a21",
+          "title": "Clasa a VIII-a EN",
+          "source_count": 47,
+          "url": "https://notebooklm.google.com/notebook/ed5abb23-8d76-4752-8ce2-ade82b1a6a21",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2026-01-06T11:24:47Z",
+          "modified_at": "2026-02-20T20:34:48Z"
+        },
+        {
+          "id": "6141c763-1bed-4c1e-b0c9-431203044377",
+          "title": "Ghid Complet pentru Adaptarea \u0219i Crearea Resurselor Educa\u021bionale Deschise",
+          "source_count": 1,
+          "url": "https://notebooklm.google.com/notebook/6141c763-1bed-4c1e-b0c9-431203044377",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2026-02-20T19:26:53Z",
+          "modified_at": "2026-02-20T19:26:53Z"
+        },
+        {
+          "id": "6ece3fa9-df14-4c9d-98d9-f07c9d466d6e",
+          "title": "Pronumele ",
+          "source_count": 9,
+          "url": "https://notebooklm.google.com/notebook/6ece3fa9-df14-4c9d-98d9-f07c9d466d6e",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2026-02-19T10:36:46Z",
+          "modified_at": "2026-02-20T19:24:36Z"
+        },
+        {
+          "id": "a9a50e88-0d0f-4bb2-ba22-815e1db23319",
+          "title": "Ghidul Structurii \u0219i Redact\u0103rii Textului Argumentativ",
+          "source_count": 5,
+          "url": "https://notebooklm.google.com/notebook/a9a50e88-0d0f-4bb2-ba22-815e1db23319",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2026-01-09T16:03:03Z",
+          "modified_at": "2026-02-20T17:08:31Z"
+        },
+        {
+          "id": "d1788434-0819-4e7f-b30d-d364fba3b8fc",
+          "title": "Ghidul Complementului \u0219i al Completivei Prepozi\u021bionale",
+          "source_count": 1,
+          "url": "https://notebooklm.google.com/notebook/d1788434-0819-4e7f-b30d-d364fba3b8fc",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2026-02-17T15:51:32Z",
+          "modified_at": "2026-02-20T17:08:06Z"
+        },
+        {
+          "id": "f7121742-9b5f-461f-9a85-cb0b8e2a4ebc",
+          "title": "complementul direct si completiva directa",
+          "source_count": 12,
+          "url": "https://notebooklm.google.com/notebook/f7121742-9b5f-461f-9a85-cb0b8e2a4ebc",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2026-02-08T18:58:31Z",
+          "modified_at": "2026-02-19T19:51:40Z"
+        },
+        {
+          "id": "d688f22c-7174-4fa0-9a72-d0b39df26710",
+          "title": "Complementul \u0219i Completiva Indirect\u0103",
+          "source_count": 11,
+          "url": "https://notebooklm.google.com/notebook/d688f22c-7174-4fa0-9a72-d0b39df26710",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2026-02-15T17:04:05Z",
+          "modified_at": "2026-02-17T18:10:24Z"
+        },
+        {
+          "id": "5b6f2385-2384-4640-acb3-f2480ea3566a",
+          "title": "",
+          "source_count": 0,
+          "url": "https://notebooklm.google.com/notebook/5b6f2385-2384-4640-acb3-f2480ea3566a",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2026-02-17T15:51:32Z",
+          "modified_at": "2026-02-17T15:51:32Z"
+        },
+        {
+          "id": "825adcbb-5fa6-4256-9aac-5803627f66f6",
+          "title": "Mecanismele Democra\u021biei: Votul \u0219i Procesul Electoral \u00een Rom\u00e2nia",
+          "source_count": 1,
+          "url": "https://notebooklm.google.com/notebook/825adcbb-5fa6-4256-9aac-5803627f66f6",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2026-02-16T18:24:40Z",
+          "modified_at": "2026-02-16T18:24:41Z"
+        },
+        {
+          "id": "5821b7c1-5d74-414a-bc9a-5697c7a73df2",
+          "title": "",
+          "source_count": 0,
+          "url": "https://notebooklm.google.com/notebook/5821b7c1-5d74-414a-bc9a-5697c7a73df2",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2026-02-15T17:04:05Z",
+          "modified_at": "2026-02-15T17:04:05Z"
+        },
+        {
+          "id": "108d76b7-988c-4f98-b82c-0bd4f7ab63eb",
+          "title": "Sintaxa \u0219i Func\u021biile Sintactice ale Adjectivului",
+          "source_count": 1,
+          "url": "https://notebooklm.google.com/notebook/108d76b7-988c-4f98-b82c-0bd4f7ab63eb",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2026-02-08T18:30:11Z",
+          "modified_at": "2026-02-11T18:36:20Z"
+        },
+        {
+          "id": "e757ad4a-510f-497b-9581-c3a4715ddd5b",
+          "title": "Substantivul",
+          "source_count": 12,
+          "url": "https://notebooklm.google.com/notebook/e757ad4a-510f-497b-9581-c3a4715ddd5b",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2026-02-01T13:31:30Z",
+          "modified_at": "2026-02-11T18:36:17Z"
+        },
+        {
+          "id": "6d79f253-8855-446a-8009-37bc6e75fee8",
+          "title": "Ghid pentru Analiza Mesajului Literar",
+          "source_count": 1,
+          "url": "https://notebooklm.google.com/notebook/6d79f253-8855-446a-8009-37bc6e75fee8",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2026-01-30T21:27:46Z",
+          "modified_at": "2026-02-11T18:36:17Z"
+        },
+        {
+          "id": "4d18a90d-2c68-4287-816a-c59a9f47b106",
+          "title": "",
+          "source_count": 7,
+          "url": "https://notebooklm.google.com/notebook/4d18a90d-2c68-4287-816a-c59a9f47b106",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2026-02-10T18:10:36Z",
+          "modified_at": "2026-02-10T18:10:37Z"
+        },
+        {
+          "id": "fd5eb9b1-97f8-4e11-83bc-e386ab6541bb",
+          "title": "EN",
+          "source_count": 26,
+          "url": "https://notebooklm.google.com/notebook/fd5eb9b1-97f8-4e11-83bc-e386ab6541bb",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2026-01-21T16:12:25Z",
+          "modified_at": "2026-02-08T06:07:28Z"
+        },
+        {
+          "id": "caf238e1-ac66-47c6-9906-460497485779",
+          "title": "Ghid pentru Analiza Mesajului Literar",
+          "source_count": 2,
+          "url": "https://notebooklm.google.com/notebook/caf238e1-ac66-47c6-9906-460497485779",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2026-01-30T19:34:02Z",
+          "modified_at": "2026-02-08T04:14:33Z"
+        },
+        {
+          "id": "9e1f7af9-2a12-4753-a3c5-9ac689d7e798",
+          "title": "Simulare Evalu\u0103rii Na\u021bionale",
+          "source_count": 1,
+          "url": "https://notebooklm.google.com/notebook/9e1f7af9-2a12-4753-a3c5-9ac689d7e798",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2026-02-06T20:49:17Z",
+          "modified_at": "2026-02-06T20:49:26Z"
+        },
+        {
+          "id": "736ffcfd-6867-452f-a19b-6379bc5c4933",
+          "title": "SKILS ANTIGRAVITY",
+          "source_count": 18,
+          "url": "https://notebooklm.google.com/notebook/736ffcfd-6867-452f-a19b-6379bc5c4933",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2026-02-04T14:56:47Z",
+          "modified_at": "2026-02-04T14:56:48Z"
+        },
+        {
+          "id": "aa794a56-c4fb-4e52-9522-3eaf0969eb4f",
+          "title": "Organigrama \u0218colii Gimnaziale Petru Com\u0103rnescu 2025-2026",
+          "source_count": 1,
+          "url": "https://notebooklm.google.com/notebook/aa794a56-c4fb-4e52-9522-3eaf0969eb4f",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2026-01-29T17:15:50Z",
+          "modified_at": "2026-02-04T04:54:04Z"
+        },
+        {
+          "id": "7294afd8-79ad-4802-842a-bcd744d8130f",
+          "title": "Borderou Evaluare Na\u021bional\u0103 2026 Limba Rom\u00e2n\u0103 Suceava",
+          "source_count": 4,
+          "url": "https://notebooklm.google.com/notebook/7294afd8-79ad-4802-842a-bcd744d8130f",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2026-01-29T15:01:09Z",
+          "modified_at": "2026-02-03T15:58:17Z"
+        },
+        {
+          "id": "2c13f1a6-755c-4bd3-8072-b790bfb2ba68",
+          "title": "Barem Simulare Evaluare Na\u021bional\u0103 2025 Limba Rom\u00e2n\u0103 Cluj",
+          "source_count": 2,
+          "url": "https://notebooklm.google.com/notebook/2c13f1a6-755c-4bd3-8072-b790bfb2ba68",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2025-12-22T21:12:29Z",
+          "modified_at": "2026-02-03T15:51:32Z"
+        },
+        {
+          "id": "960d9bc8-d2e9-493f-86e9-f14894d0a9d3",
+          "title": "C D \u0218",
+          "source_count": 12,
+          "url": "https://notebooklm.google.com/notebook/960d9bc8-d2e9-493f-86e9-f14894d0a9d3",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2025-12-29T10:07:16Z",
+          "modified_at": "2026-02-02T16:46:11Z"
+        },
+        {
+          "id": "2fd099c8-132f-44c9-840f-9fbc2b0d5456",
+          "title": "Ghid de Scenariu pentru Romane Grafice AI",
+          "source_count": 11,
+          "url": "https://notebooklm.google.com/notebook/2fd099c8-132f-44c9-840f-9fbc2b0d5456",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2026-01-30T21:09:23Z",
+          "modified_at": "2026-02-02T15:45:52Z"
+        },
+        {
+          "id": "2946d888-dc36-4815-a60b-b45dbbcdbd16",
+          "title": "Cambia tu vida en un dia",
+          "source_count": 1,
+          "url": "https://notebooklm.google.com/notebook/2946d888-dc36-4815-a60b-b45dbbcdbd16",
+          "ownership": "shared_with_me",
+          "is_shared": true,
+          "created_at": "2026-01-31T12:03:37Z",
+          "modified_at": "2026-02-02T05:00:47Z"
+        },
+        {
+          "id": "b780ac19-4507-44e2-b2bc-b6b3f673f985",
+          "title": "Carol TV",
+          "source_count": 5,
+          "url": "https://notebooklm.google.com/notebook/b780ac19-4507-44e2-b2bc-b6b3f673f985",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2026-01-31T19:08:23Z",
+          "modified_at": "2026-02-01T16:57:13Z"
+        },
+        {
+          "id": "f3106878-89f9-4b25-8f2f-8cf080003281",
+          "title": "Inginer de prompt",
+          "source_count": 47,
+          "url": "https://notebooklm.google.com/notebook/f3106878-89f9-4b25-8f2f-8cf080003281",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2026-02-01T13:13:27Z",
+          "modified_at": "2026-02-01T13:13:28Z"
+        },
+        {
+          "id": "edbf4c84-8778-480f-9782-736c19988309",
+          "title": "Metodologia de Organizare a Programului S\u0103pt\u0103m\u00e2na Verde",
+          "source_count": 13,
+          "url": "https://notebooklm.google.com/notebook/edbf4c84-8778-480f-9782-736c19988309",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2026-01-23T19:22:58Z",
+          "modified_at": "2026-02-01T13:12:12Z"
+        },
+        {
+          "id": "92eb6d7e-e77d-4b93-8896-2b85d73c3236",
+          "title": "Ghid de Redactare a Cronicii de Film",
+          "source_count": 1,
+          "url": "https://notebooklm.google.com/notebook/92eb6d7e-e77d-4b93-8896-2b85d73c3236",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2026-01-19T18:23:57Z",
+          "modified_at": "2026-01-31T17:46:29Z"
+        },
+        {
+          "id": "f8278d6c-ae99-448d-aa3b-3c09dba0c6db",
+          "title": "Povestea kendamei pierdute: O istorie din Ferentari",
+          "source_count": 1,
+          "url": "https://notebooklm.google.com/notebook/f8278d6c-ae99-448d-aa3b-3c09dba0c6db",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2026-01-31T16:28:57Z",
+          "modified_at": "2026-01-31T17:41:05Z"
+        },
+        {
+          "id": "5b8adedd-4a32-4e9d-8931-1882497167da",
+          "title": "\u021aara Obiectelor cu Suflet \u0219i Limba AFCA",
+          "source_count": 1,
+          "url": "https://notebooklm.google.com/notebook/5b8adedd-4a32-4e9d-8931-1882497167da",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2025-12-27T12:08:37Z",
+          "modified_at": "2026-01-30T18:43:18Z"
+        },
+        {
+          "id": "f1929b01-8a09-4fac-856f-82cf697976a6",
+          "title": "Organigrama \u0218colii Gimnaziale \u201ePetru Com\u0103rnescu\u201d 2025-2026",
+          "source_count": 1,
+          "url": "https://notebooklm.google.com/notebook/f1929b01-8a09-4fac-856f-82cf697976a6",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2026-01-29T18:43:16Z",
+          "modified_at": "2026-01-29T18:45:25Z"
+        },
+        {
+          "id": "62d986a0-7e94-44a1-9b12-9363295be747",
+          "title": "Marin Sorescu \u0219i Jocul de-a V-a\u021bi Ascunselea \u00een Poezia Modern\u0103",
+          "source_count": 10,
+          "url": "https://notebooklm.google.com/notebook/62d986a0-7e94-44a1-9b12-9363295be747",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2026-01-25T20:21:01Z",
+          "modified_at": "2026-01-27T21:36:38Z"
+        },
+        {
+          "id": "a2bee031-8376-42de-b3a5-8af47a8b7252",
+          "title": "Orizonturi \u0219i Valori \u00een Literatura Rom\u00e2n\u0103 Clasic\u0103 \u0219i Modern\u0103",
+          "source_count": 7,
+          "url": "https://notebooklm.google.com/notebook/a2bee031-8376-42de-b3a5-8af47a8b7252",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2026-01-26T16:36:31Z",
+          "modified_at": "2026-01-26T16:36:32Z"
+        },
+        {
+          "id": "1cce83ab-4038-4124-a86d-a110f62bbe9b",
+          "title": "Busola Pedagogic\u0103: Integrarea Modelului SAMR \u0219i Taxonomia lui Bloom",
+          "source_count": 1,
+          "url": "https://notebooklm.google.com/notebook/1cce83ab-4038-4124-a86d-a110f62bbe9b",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2026-01-25T12:43:39Z",
+          "modified_at": "2026-01-25T12:43:48Z"
+        },
+        {
+          "id": "4467624b-57f0-4453-8bf7-54c418de1513",
+          "title": "Ghidul Complet al Atributului \u00een Limba Rom\u00e2n\u0103",
+          "source_count": 2,
+          "url": "https://notebooklm.google.com/notebook/4467624b-57f0-4453-8bf7-54c418de1513",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2025-12-19T18:40:34Z",
+          "modified_at": "2026-01-24T15:48:32Z"
+        },
+        {
+          "id": "3de633aa-3bb3-419a-99db-b3d8f2559eaa",
+          "title": "Predarea Spaniolei Copiilor \u0219i Adolescen\u021bilor: Tendin\u021be \u0219i Abord\u0103ri",
+          "source_count": 26,
+          "url": "https://notebooklm.google.com/notebook/3de633aa-3bb3-419a-99db-b3d8f2559eaa",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2025-11-22T16:58:56Z",
+          "modified_at": "2026-01-22T19:45:47Z"
+        },
+        {
+          "id": "8faac571-bf22-4ce9-a47f-0eab7d2e69c5",
+          "title": "Democra\u021bia Participativ\u0103 \u0219i Procesul Legislativ \u00een Rom\u00e2nia",
+          "source_count": 1,
+          "url": "https://notebooklm.google.com/notebook/8faac571-bf22-4ce9-a47f-0eab7d2e69c5",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2026-01-19T20:02:32Z",
+          "modified_at": "2026-01-19T20:02:36Z"
+        },
+        {
+          "id": "9305767b-3c97-4b64-b96d-59775a86d53a",
+          "title": "Sintaxa Frazei: Raporturi Logice \u0219i Elipsa",
+          "source_count": 2,
+          "url": "https://notebooklm.google.com/notebook/9305767b-3c97-4b64-b96d-59775a86d53a",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2026-01-19T16:57:30Z",
+          "modified_at": "2026-01-19T18:49:52Z"
+        },
+        {
+          "id": "4a5ae694-cac1-4e33-82d9-04972dce4a8f",
+          "title": "Verbele \u0219i Construc\u021biile Impersonale: Teorie \u0219i Aplica\u021bii",
+          "source_count": 1,
+          "url": "https://notebooklm.google.com/notebook/4a5ae694-cac1-4e33-82d9-04972dce4a8f",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2026-01-17T18:41:36Z",
+          "modified_at": "2026-01-19T16:00:50Z"
+        },
+        {
+          "id": "93e74534-be60-4c03-870f-6590d828f2d1",
+          "title": "Ghid de analiz\u0103 \u0219i structur\u0103 poetic\u0103",
+          "source_count": 17,
+          "url": "https://notebooklm.google.com/notebook/93e74534-be60-4c03-870f-6590d828f2d1",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2026-01-13T20:15:52Z",
+          "modified_at": "2026-01-18T17:23:15Z"
+        },
+        {
+          "id": "75a83499-3aec-4654-8542-df646bd5d94d",
+          "title": "Ghid Teoretic \u0219i Aplicativ privind Subiectul \u00een Limba Rom\u00e2n\u0103",
+          "source_count": 2,
+          "url": "https://notebooklm.google.com/notebook/75a83499-3aec-4654-8542-df646bd5d94d",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2026-01-13T19:26:03Z",
+          "modified_at": "2026-01-13T20:14:57Z"
+        },
+        {
+          "id": "ee2557a5-d052-469b-8912-e877d07cc745",
+          "title": "Ghid Complet pentru Analiza Predicatului verbal \u0219i nominal",
+          "source_count": 2,
+          "url": "https://notebooklm.google.com/notebook/ee2557a5-d052-469b-8912-e877d07cc745",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2026-01-11T20:01:22Z",
+          "modified_at": "2026-01-12T19:43:04Z"
+        },
+        {
+          "id": "06e44f54-a7c0-4175-bc12-1aedc739f73d",
+          "title": "Limba \u0219i Literatura Rom\u00e2n\u0103 Gimnaziu",
+          "source_count": 15,
+          "url": "https://notebooklm.google.com/notebook/06e44f54-a7c0-4175-bc12-1aedc739f73d",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2026-01-10T08:40:28Z",
+          "modified_at": "2026-01-10T21:50:15Z"
+        },
+        {
+          "id": "03121cfe-07e3-45f8-8fdf-31dcae6c1ac3",
+          "title": "Storytelling",
+          "source_count": 11,
+          "url": "https://notebooklm.google.com/notebook/03121cfe-07e3-45f8-8fdf-31dcae6c1ac3",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2026-01-04T16:38:30Z",
+          "modified_at": "2026-01-10T21:34:45Z"
+        },
+        {
+          "id": "3fa595cf-da2c-4c00-9c78-917121659a74",
+          "title": "Sucesos de mi jard\u00edn",
+          "source_count": 1,
+          "url": "https://notebooklm.google.com/notebook/3fa595cf-da2c-4c00-9c78-917121659a74",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2025-01-30T07:02:56Z",
+          "modified_at": "2026-01-10T15:09:37Z"
+        },
+        {
+          "id": "c0d91700-ac86-4dfa-838f-63335347c0d8",
+          "title": "Predicatul: Forme \u0219i Func\u021bii Sintactice",
+          "source_count": 3,
+          "url": "https://notebooklm.google.com/notebook/c0d91700-ac86-4dfa-838f-63335347c0d8",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2025-12-01T09:36:29Z",
+          "modified_at": "2026-01-08T20:19:24Z"
+        },
+        {
+          "id": "d6b98a58-d36b-49c6-8737-ef1937b36d7d",
+          "title": "Transformarea Activ-Pasiv: Subiect \u0219i Agent",
+          "source_count": 4,
+          "url": "https://notebooklm.google.com/notebook/d6b98a58-d36b-49c6-8737-ef1937b36d7d",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2025-12-01T08:48:12Z",
+          "modified_at": "2026-01-08T17:59:22Z"
+        },
+        {
+          "id": "65c213a2-b423-4d3e-a454-f42edcf4f5eb",
+          "title": "Mo\u0219tenirea Romei: De la Caesar la Colosseum",
+          "source_count": 4,
+          "url": "https://notebooklm.google.com/notebook/65c213a2-b423-4d3e-a454-f42edcf4f5eb",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2026-01-07T21:11:11Z",
+          "modified_at": "2026-01-07T22:22:20Z"
+        },
+        {
+          "id": "dbe48043-f3b7-4767-9585-ca3af9f5388e",
+          "title": "Ghidul Adverbului: Tipuri \u0219i Func\u021bii Sintactice",
+          "source_count": 2,
+          "url": "https://notebooklm.google.com/notebook/dbe48043-f3b7-4767-9585-ca3af9f5388e",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2026-01-07T13:51:53Z",
+          "modified_at": "2026-01-07T13:52:03Z"
+        },
+        {
+          "id": "8999c3a1-700d-48f7-b090-9ff2ca529c5a",
+          "title": "Ghid Complet al Pronumelui: Morfologie, Sintax\u0103 \u0219i Valori Stilistice",
+          "source_count": 13,
+          "url": "https://notebooklm.google.com/notebook/8999c3a1-700d-48f7-b090-9ff2ca529c5a",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2025-12-29T04:19:50Z",
+          "modified_at": "2026-01-07T07:13:34Z"
+        },
+        {
+          "id": "97ad905a-3ad4-47d8-9627-57a186759077",
+          "title": "Ghid de Digitalizare a Pred\u0103rii Limbii Rom\u00e2ne prin IA",
+          "source_count": 1,
+          "url": "https://notebooklm.google.com/notebook/97ad905a-3ad4-47d8-9627-57a186759077",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2025-12-26T10:28:48Z",
+          "modified_at": "2026-01-07T06:57:37Z"
+        },
+        {
+          "id": "0b5fc5bb-416c-4804-b7d6-2aa6f9cf1e12",
+          "title": "Jacobo Grinberg: \u0218tiin\u021b\u0103, \u0218amanism \u0219i Misterul Dispari\u021biei Sale",
+          "source_count": 9,
+          "url": "https://notebooklm.google.com/notebook/0b5fc5bb-416c-4804-b7d6-2aa6f9cf1e12",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2026-01-06T19:30:33Z",
+          "modified_at": "2026-01-06T21:19:06Z"
+        },
+        {
+          "id": "d50689e7-5286-479f-8152-71ea88979aea",
+          "title": "Manual RO IA",
+          "source_count": 46,
+          "url": "https://notebooklm.google.com/notebook/d50689e7-5286-479f-8152-71ea88979aea",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2026-01-06T11:18:09Z",
+          "modified_at": "2026-01-06T12:23:08Z"
+        },
+        {
+          "id": "dba1bdd4-d661-478e-b611-b3064d823261",
+          "title": "Ghidul Cursantului: Institutul Cervantes Bucure\u0219ti 2025",
+          "source_count": 39,
+          "url": "https://notebooklm.google.com/notebook/dba1bdd4-d661-478e-b611-b3064d823261",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2026-01-04T18:39:51Z",
+          "modified_at": "2026-01-06T08:04:45Z"
+        },
+        {
+          "id": "f2c964d4-287a-40d9-96ee-714499f3a51a",
+          "title": "\u0218coala Principele Carol: Tradi\u021bie \u0219i Modernitate \u00een Gura Humorului",
+          "source_count": 11,
+          "url": "https://notebooklm.google.com/notebook/f2c964d4-287a-40d9-96ee-714499f3a51a",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2026-01-03T15:27:07Z",
+          "modified_at": "2026-01-03T15:27:08Z"
+        },
+        {
+          "id": "43751af2-7c89-4699-afa9-24195ef09392",
+          "title": "G\u00e2ndirea Critic\u0103: Fundamente, Strategii \u0219i Formare Profesional\u0103",
+          "source_count": 9,
+          "url": "https://notebooklm.google.com/notebook/43751af2-7c89-4699-afa9-24195ef09392",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2026-01-02T09:57:51Z",
+          "modified_at": "2026-01-02T09:58:26Z"
+        },
+        {
+          "id": "2d974c9f-287c-45d5-8881-54a894320d49",
+          "title": "Fise de lectur\u0103 model ",
+          "source_count": 9,
+          "url": "https://notebooklm.google.com/notebook/2d974c9f-287c-45d5-8881-54a894320d49",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2025-12-27T17:52:38Z",
+          "modified_at": "2025-12-29T16:53:46Z"
+        },
+        {
+          "id": "075cdb7f-a5ea-470e-8a55-3d7d022ef96d",
+          "title": "Iapa lui Vod\u0103 \u0219i dreptatea r\u0103z\u0103\u0219ului Ioni\u021b\u0103",
+          "source_count": 3,
+          "url": "https://notebooklm.google.com/notebook/075cdb7f-a5ea-470e-8a55-3d7d022ef96d",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2025-12-27T17:51:45Z",
+          "modified_at": "2025-12-27T21:38:34Z"
+        },
+        {
+          "id": "18522b6b-47b5-47fb-a41a-d3a4dd82c1b2",
+          "title": "Evaluare Na\u021bional\u0103 Rom\u00e2n\u0103 Simulare",
+          "source_count": 10,
+          "url": "https://notebooklm.google.com/notebook/18522b6b-47b5-47fb-a41a-d3a4dd82c1b2",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2025-12-27T19:03:28Z",
+          "modified_at": "2025-12-27T19:03:28Z"
+        },
+        {
+          "id": "b34181d0-189c-45e0-a27c-a04b2a604dda",
+          "title": "Ghidul Complet al Construc\u021biilor Reflexe \u00een Limba Rom\u00e2n\u0103",
+          "source_count": 5,
+          "url": "https://notebooklm.google.com/notebook/b34181d0-189c-45e0-a27c-a04b2a604dda",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2025-12-21T06:23:22Z",
+          "modified_at": "2025-12-22T20:37:22Z"
+        },
+        {
+          "id": "2e71cf65-b36a-4be0-ae8d-e79c91e85bf6",
+          "title": "Regulament \u0218colar de Conduit\u0103, Lini\u0219te \u0219i Cur\u0103\u021benie",
+          "source_count": 2,
+          "url": "https://notebooklm.google.com/notebook/2e71cf65-b36a-4be0-ae8d-e79c91e85bf6",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2025-12-10T16:35:16Z",
+          "modified_at": "2025-12-22T17:28:27Z"
+        },
+        {
+          "id": "34a3d014-d5ef-41a6-b4c3-b8237e15c18e",
+          "title": "Punctaje Simulare Limba Rom\u00e2n\u0103 EN VIII 2025",
+          "source_count": 4,
+          "url": "https://notebooklm.google.com/notebook/34a3d014-d5ef-41a6-b4c3-b8237e15c18e",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2025-11-29T19:57:39Z",
+          "modified_at": "2025-12-20T05:31:34Z"
+        },
+        {
+          "id": "2bac3f7c-2b76-45fd-aa8c-e603c8999d11",
+          "title": "Textul Narativ: Tr\u0103s\u0103turi \u0219i Structur\u0103",
+          "source_count": 1,
+          "url": "https://notebooklm.google.com/notebook/2bac3f7c-2b76-45fd-aa8c-e603c8999d11",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2025-12-18T04:58:23Z",
+          "modified_at": "2025-12-19T08:02:19Z"
+        },
+        {
+          "id": "bd997559-b59a-4752-ac9a-3185afca15aa",
+          "title": "Onomastic\u0103 \u0219i Caracterizare de Personaj",
+          "source_count": 10,
+          "url": "https://notebooklm.google.com/notebook/bd997559-b59a-4752-ac9a-3185afca15aa",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2025-12-17T03:48:51Z",
+          "modified_at": "2025-12-17T03:52:15Z"
+        },
+        {
+          "id": "1c1141dd-6813-476f-894b-0c8707f21c83",
+          "title": "Pronumele func\u021bii sintactice ",
+          "source_count": 4,
+          "url": "https://notebooklm.google.com/notebook/1c1141dd-6813-476f-894b-0c8707f21c83",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2025-12-14T16:44:21Z",
+          "modified_at": "2025-12-14T18:48:23Z"
+        },
+        {
+          "id": "3eeb91d7-13b0-41e9-91a2-496fc882423c",
+          "title": "Arhitectura \u0219i Tipologia Textului",
+          "source_count": 1,
+          "url": "https://notebooklm.google.com/notebook/3eeb91d7-13b0-41e9-91a2-496fc882423c",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2025-12-07T19:57:07Z",
+          "modified_at": "2025-12-07T19:57:31Z"
+        },
+        {
+          "id": "87d7cf6b-91a9-4033-a249-5d117b74eb5f",
+          "title": "De Ce \u0219i Pentru Ce: Circumstan\u021bialele",
+          "source_count": 1,
+          "url": "https://notebooklm.google.com/notebook/87d7cf6b-91a9-4033-a249-5d117b74eb5f",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2025-12-02T12:29:45Z",
+          "modified_at": "2025-12-07T19:31:30Z"
+        },
+        {
+          "id": "138c9989-3a7f-47f7-9f2d-db8958e98de4",
+          "title": "Take, Ianke \u0219i Cad\u00e2r: Comedie \u00een Trei Acte",
+          "source_count": 41,
+          "url": "https://notebooklm.google.com/notebook/138c9989-3a7f-47f7-9f2d-db8958e98de4",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2025-11-05T18:07:14Z",
+          "modified_at": "2025-12-07T14:48:49Z"
+        },
+        {
+          "id": "c0a7d2e9-53f5-4a9d-bbf0-0b9916a18684",
+          "title": "Agenda \u0218colii Petru Comarnescu",
+          "source_count": 1,
+          "url": "https://notebooklm.google.com/notebook/c0a7d2e9-53f5-4a9d-bbf0-0b9916a18684",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2025-12-07T07:57:30Z",
+          "modified_at": "2025-12-07T10:08:50Z"
+        },
+        {
+          "id": "22031029-e6cf-4d5d-a318-1b28d5321d81",
+          "title": "Diagrama de Influen\u021b\u0103 Reciproc\u0103",
+          "source_count": 1,
+          "url": "https://notebooklm.google.com/notebook/22031029-e6cf-4d5d-a318-1b28d5321d81",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2025-11-29T11:37:48Z",
+          "modified_at": "2025-11-29T11:37:59Z"
+        },
+        {
+          "id": "f35779f0-0b26-48b9-951b-61130237daf2",
+          "title": "Ghidul Hibern\u0103rii Buganvillea: De la Toamn\u0103 la \u00cenflorire",
+          "source_count": 1,
+          "url": "https://notebooklm.google.com/notebook/f35779f0-0b26-48b9-951b-61130237daf2",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2025-11-28T16:04:59Z",
+          "modified_at": "2025-11-28T16:05:09Z"
+        },
+        {
+          "id": "8d3eca5f-b243-4e02-a6ac-4db5b8bef8c5",
+          "title": "Tipologie \u0219i Caracterizare Literar\u0103",
+          "source_count": 3,
+          "url": "https://notebooklm.google.com/notebook/8d3eca5f-b243-4e02-a6ac-4db5b8bef8c5",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2025-11-27T17:48:40Z",
+          "modified_at": "2025-11-27T17:48:43Z"
+        },
+        {
+          "id": "bd994cdf-b9ae-49cb-939a-ec56eeee2387",
+          "title": "Valoarea Morfologic\u0103 \u0219i Sintactic\u0103 a Verbului",
+          "source_count": 2,
+          "url": "https://notebooklm.google.com/notebook/bd994cdf-b9ae-49cb-939a-ec56eeee2387",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2025-11-23T20:05:18Z",
+          "modified_at": "2025-11-25T18:13:30Z"
+        },
+        {
+          "id": "54f6b5d5-6a5e-413c-a797-f6b171fc7ef0",
+          "title": "Verbul, Locu\u021biunea Verbal\u0103 \u0219i Verbele Copulative",
+          "source_count": 16,
+          "url": "https://notebooklm.google.com/notebook/54f6b5d5-6a5e-413c-a797-f6b171fc7ef0",
+          "ownership": "owned",
+          "is_shared": true,
+          "created_at": "2025-11-17T19:21:31Z",
+          "modified_at": "2025-11-25T18:13:08Z"
+        },
+        {
+          "id": "c9238ffe-412b-4601-bff1-c702b0973467",
+          "title": "Take, Ianke \u0219i Cad\u00e2r",
+          "source_count": 2,
+          "url": "https://notebooklm.google.com/notebook/c9238ffe-412b-4601-bff1-c702b0973467",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2025-11-23T16:30:04Z",
+          "modified_at": "2025-11-23T16:30:05Z"
+        },
+        {
+          "id": "f5cc8d03-d0e5-4336-842d-bf6a4044e51f",
+          "title": "Devino de Nerecunoscut \u00eentr-o S\u0103pt\u0103m\u00e2n\u0103: Neuro\u0219tiin\u021ba Schimb\u0103rii",
+          "source_count": 1,
+          "url": "https://notebooklm.google.com/notebook/f5cc8d03-d0e5-4336-842d-bf6a4044e51f",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2025-11-20T03:35:21Z",
+          "modified_at": "2025-11-21T18:27:02Z"
+        },
+        {
+          "id": "0345d402-b6ba-4710-a5cd-b2c26f7fdf90",
+          "title": "Plan de Lec\u021bie Popa Tanda: Familiarizare Text Narativ",
+          "source_count": 3,
+          "url": "https://notebooklm.google.com/notebook/0345d402-b6ba-4710-a5cd-b2c26f7fdf90",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2025-10-23T11:49:58Z",
+          "modified_at": "2025-11-15T20:08:12Z"
+        },
+        {
+          "id": "f2aedf62-9597-49a4-8db3-b6c6ebca576c",
+          "title": "Evolu\u021bia \u0219i Reglementarea \u00cenv\u0103\u021b\u0103m\u00e2ntului \u00een Rom\u00e2nia",
+          "source_count": 10,
+          "url": "https://notebooklm.google.com/notebook/f2aedf62-9597-49a4-8db3-b6c6ebca576c",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2025-11-12T04:19:07Z",
+          "modified_at": "2025-11-12T19:12:50Z"
+        },
+        {
+          "id": "d5a14091-e2d5-45fa-85ef-459d50d0c2db",
+          "title": "Coeren\u021b\u0103 Textual\u0103 \u0219i Anafor\u0103",
+          "source_count": 1,
+          "url": "https://notebooklm.google.com/notebook/d5a14091-e2d5-45fa-85ef-459d50d0c2db",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2025-11-11T18:48:08Z",
+          "modified_at": "2025-11-11T18:48:31Z"
+        },
+        {
+          "id": "a08b024d-8074-486e-84fb-e961911750e0",
+          "title": "Constitu\u021bia \u0219i Principiile Fundamentale ale Rom\u00e2niei",
+          "source_count": 5,
+          "url": "https://notebooklm.google.com/notebook/a08b024d-8074-486e-84fb-e961911750e0",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2025-11-09T13:07:04Z",
+          "modified_at": "2025-11-10T18:31:53Z"
+        },
+        {
+          "id": "17e9b246-e1e1-4eab-84e7-c0a163894321",
+          "title": "Lec\u021bia de citire",
+          "source_count": 4,
+          "url": "https://notebooklm.google.com/notebook/17e9b246-e1e1-4eab-84e7-c0a163894321",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2025-10-25T07:33:10Z",
+          "modified_at": "2025-11-04T17:32:19Z"
+        },
+        {
+          "id": "617d353d-63bd-4871-a2d6-a4ee776c1b23",
+          "title": "Un Scandalo \u00een Boemia",
+          "source_count": 1,
+          "url": "https://notebooklm.google.com/notebook/617d353d-63bd-4871-a2d6-a4ee776c1b23",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2025-10-02T12:37:51Z",
+          "modified_at": "2025-10-24T03:47:11Z"
+        },
+        {
+          "id": "ed95c5c4-3179-4822-b0a4-7fdcdfb8705a",
+          "title": "Al Treilea Val: O Nou\u0103 Civiliza\u021bie",
+          "source_count": 1,
+          "url": "https://notebooklm.google.com/notebook/ed95c5c4-3179-4822-b0a4-7fdcdfb8705a",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2025-10-09T10:12:04Z",
+          "modified_at": "2025-10-19T16:24:21Z"
+        },
+        {
+          "id": "2ab4ffbb-5e12-419a-8806-f33d08c4d59d",
+          "title": "Ghidul Profesorului: Limba \u0219i Literatura Rom\u00e2n\u0103, Clasa a VII-a",
+          "source_count": 1,
+          "url": "https://notebooklm.google.com/notebook/2ab4ffbb-5e12-419a-8806-f33d08c4d59d",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2025-10-13T03:52:17Z",
+          "modified_at": "2025-10-13T03:52:52Z"
+        },
+        {
+          "id": "c44a80ea-f6a8-49a8-b263-48c07bfcaea2",
+          "title": "Clasa a 8-a / rom\u00e2n\u0103",
+          "source_count": 13,
+          "url": "https://notebooklm.google.com/notebook/c44a80ea-f6a8-49a8-b263-48c07bfcaea2",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2025-08-30T10:43:32Z",
+          "modified_at": "2025-10-12T16:05:56Z"
+        },
+        {
+          "id": "ebb2b465-fe01-469e-8ff9-49acfe78125f",
+          "title": "Ghid pentru Redescoperirea Umanit\u0103\u021bii: Hai S\u0103 Fim Oameni",
+          "source_count": 1,
+          "url": "https://notebooklm.google.com/notebook/ebb2b465-fe01-469e-8ff9-49acfe78125f",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2025-10-12T07:26:17Z",
+          "modified_at": "2025-10-12T07:26:28Z"
+        },
+        {
+          "id": "e6f23068-eea1-4b07-afec-230c076debf8",
+          "title": "Ghidul de \u00cenv\u0103\u021bare Bazat\u0103 pe Proiecte: Joc \u0219i Incluziune",
+          "source_count": 1,
+          "url": "https://notebooklm.google.com/notebook/e6f23068-eea1-4b07-afec-230c076debf8",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2025-10-06T12:44:03Z",
+          "modified_at": "2025-10-06T12:44:04Z"
+        },
+        {
+          "id": "8acdc169-05c3-4ab3-a872-616d3a5b742a",
+          "title": "Gramatic\u0103 \u0219i Literatur\u0103: Unit\u0103\u021bi de Studiu",
+          "source_count": 5,
+          "url": "https://notebooklm.google.com/notebook/8acdc169-05c3-4ab3-a872-616d3a5b742a",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2025-10-05T12:46:15Z",
+          "modified_at": "2025-10-05T12:46:15Z"
+        },
+        {
+          "id": "a515f0e0-d5aa-49d0-b1df-52fdf1ab939e",
+          "title": "G\u00e2ndirea lui Sherlock Holmes: Metoda Deductiv\u0103",
+          "source_count": 2,
+          "url": "https://notebooklm.google.com/notebook/a515f0e0-d5aa-49d0-b1df-52fdf1ab939e",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2025-09-15T20:47:30Z",
+          "modified_at": "2025-10-05T10:16:19Z"
+        },
+        {
+          "id": "f226abc0-7f91-4441-aba8-3ec61fe840b8",
+          "title": "Aventurile lui Sherlock Holmes",
+          "source_count": 1,
+          "url": "https://notebooklm.google.com/notebook/f226abc0-7f91-4441-aba8-3ec61fe840b8",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2025-09-25T02:49:58Z",
+          "modified_at": "2025-09-25T02:49:58Z"
+        },
+        {
+          "id": "f541611a-06b3-4f05-b813-508f4817f8f8",
+          "title": "No\u021biuni Esen\u021biale de Fonetic\u0103 Rom\u00e2n\u0103",
+          "source_count": 2,
+          "url": "https://notebooklm.google.com/notebook/f541611a-06b3-4f05-b813-508f4817f8f8",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2025-09-11T17:33:38Z",
+          "modified_at": "2025-09-12T11:38:03Z"
+        },
+        {
+          "id": "dfd3d5c9-46b4-4896-9eab-91ed2c2cf3b1",
+          "title": "O, R\u0103m\u00e2i... \u0219i Frumuse\u021bea Naturii",
+          "source_count": 1,
+          "url": "https://notebooklm.google.com/notebook/dfd3d5c9-46b4-4896-9eab-91ed2c2cf3b1",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2025-09-08T16:52:18Z",
+          "modified_at": "2025-09-08T18:21:23Z"
+        },
+        {
+          "id": "d03e6807-d193-4de5-9e1f-751715d965e6",
+          "title": "Proyectos del pasado",
+          "source_count": 3,
+          "url": "https://notebooklm.google.com/notebook/d03e6807-d193-4de5-9e1f-751715d965e6",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2024-10-15T06:53:32Z",
+          "modified_at": "2025-07-27T11:34:02Z"
+        },
+        {
+          "id": "f69e0f93-9d4c-4eba-a88a-f55cab3a0276",
+          "title": "El Poder Oculto de Tu Voz: Identidad y Lenguaje",
+          "source_count": 1,
+          "url": "https://notebooklm.google.com/notebook/f69e0f93-9d4c-4eba-a88a-f55cab3a0276",
+          "ownership": "owned",
+          "is_shared": false,
+          "created_at": "2025-02-18T09:16:24Z",
+          "modified_at": "2025-02-18T10:35:07Z"
+        }
+      ]
+    },
+    "isError": false
+  }
+}

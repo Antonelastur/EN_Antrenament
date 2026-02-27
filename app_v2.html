@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="ro">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description"
+    content="Platformă interactivă de antrenament pentru Evaluarea Națională la Limba și Literatura Română – clasa a VIII-a. Subiecte oficiale, feedback imediat." />
+  <title>EN Antrenament – Limba și Literatura Română | Clasa a VIII-a</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Playfair+Display:wght@700;800&display=swap"
+    rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Round" rel="stylesheet" />
+  <link rel="stylesheet" href="app_v2.css" />
+</head>
+
+<body>
+
+  <!-- ===== SPLASH / HERO ===== -->
+  <section id="ecran-start" class="ecran activ">
+    <div class="hero">
+      <div class="hero-particles" id="particles"></div>
+      <div class="hero-content">
+        <div class="hero-badge">📚 Evaluare Națională 2026</div>
+        <h1 class="hero-title">Limba și Literatura<br><span class="accent-gradient">Română</span></h1>
+        <p class="hero-subtitle">Antrenament interactiv pentru clasa a VIII-a<br>Subiecte oficiale · Feedback imediat ·
+          Asistent profesor</p>
+        <div class="hero-stats">
+          <div class="stat-card">
+            <span class="stat-num" id="stat-variante">2</span>
+            <span class="stat-label">Variante</span>
+          </div>
+          <div class="stat-card">
+            <span class="stat-num">17</span>
+            <span class="stat-label">Cerințe / test</span>
+          </div>
+          <div class="stat-card">
+            <span class="stat-num">100</span>
+            <span class="stat-label">Puncte</span>
+          </div>
+        </div>
+        <button class="btn-hero" id="btn-incepe" onclick="afiseazaSelectVarianta()">
+          <span class="material-icons-round">play_arrow</span>
+          Începe antrenamentul
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== SELECTARE VARIANTA ===== -->
+  <section id="ecran-variante" class="ecran">
+    <nav class="top-bar">
+      <button class="btn-icon" onclick="navigheaza('ecran-start')"><span
+          class="material-icons-round">arrow_back</span></button>
+      <h2 class="top-bar-title">Alege varianta</h2>
+      <div></div>
+    </nav>
+    <div class="variante-grid" id="variante-grid">
+      <!-- Se populează din JS -->
+    </div>
+  </section>
+
+  <!-- ===== ECRAN EXAMEN ===== -->
+  <section id="ecran-examen" class="ecran">
+    <nav class="top-bar">
+      <button class="btn-icon" onclick="navigheaza('ecran-variante')"><span
+          class="material-icons-round">arrow_back</span></button>
+      <h2 class="top-bar-title" id="titlu-varianta">Model Oficial 2025</h2>
+      <div class="examen-timer" id="timer-container">
+        <span class="material-icons-round">timer</span>
+        <span id="timer">02:00:00</span>
+      </div>
+    </nav>
+
+    <!-- Tabs subiecte -->
+    <div class="tabs-container">
+      <button class="tab activ-tab" data-tab="texte" onclick="schimbaTab('texte')">
+        <span class="material-icons-round">menu_book</span> Texte
+      </button>
+      <button class="tab" data-tab="sub-ia" onclick="schimbaTab('sub-ia')">
+        <span class="material-icons-round">quiz</span> Sub. I A <span class="badge">38p</span>
+      </button>
+      <button class="tab" data-tab="sub-ib" onclick="schimbaTab('sub-ib')">
+        <span class="material-icons-round">spellcheck</span> Sub. I B <span class="badge">32p</span>
+      </button>
+      <button class="tab" data-tab="sub-ii" onclick="schimbaTab('sub-ii')">
+        <span class="material-icons-round">edit_note</span> Sub. II <span class="badge">20p</span>
+      </button>
+    </div>
+
+    <!-- TAB: Texte suport -->
+    <div class="tab-content activ-tab-content" id="panel-texte">
+      <div class="texte-dual">
+        <div class="text-card text-literar" id="card-text1">
+          <div class="text-card-header">
+            <span class="text-badge literar"> Text literar</span>
+            <h3 id="titlu-text1"></h3>
+          </div>
+          <div class="text-card-body" id="corpus-text1"></div>
+        </div>
+        <div class="text-card text-nonliterar" id="card-text2">
+          <div class="text-card-header">
+            <span class="text-badge nonliterar"> Text nonliterar</span>
+            <h3 id="titlu-text2"></h3>
+          </div>
+          <div class="text-card-body" id="corpus-text2"></div>
+        </div>
+      </div>
+      <div class="info-panel">
+        <span class="material-icons-round">info</span>
+        <p>Citește cu atenție ambele texte înainte de a rezolva cerințele. Toate subiectele sunt obligatorii. Se acordă
+          10 puncte din oficiu. Timpul de lucru efectiv: <strong>2 ore</strong>.</p>
+      </div>
+    </div>
+
+    <!-- TAB: Subiectul I A -->
+    <div class="tab-content" id="panel-sub-ia">
+      <div class="section-header">
+        <h2>Subiectul I · A <span class="section-badge">Receptarea textului scris – 38 puncte</span></h2>
+        <div class="progress-mini" id="progres-ia"><span>0/9</span></div>
+      </div>
+      <div id="cerinte-ia" class="cerinte-list"></div>
+    </div>
+
+    <!-- TAB: Subiectul I B -->
+    <div class="tab-content" id="panel-sub-ib">
+      <div class="section-header">
+        <h2>Subiectul I · B <span class="section-badge">Elemente de construcție a comunicării – 32 puncte</span></h2>
+        <div class="progress-mini" id="progres-ib"><span>0/8</span></div>
+      </div>
+      <div id="cerinte-ib" class="cerinte-list"></div>
+    </div>
+
+    <!-- TAB: Subiectul II -->
+    <div class="tab-content" id="panel-sub-ii">
+      <div class="section-header">
+        <h2>Subiectul al II-lea <span class="section-badge">Compunere – 20 puncte</span></h2>
+      </div>
+      <div id="cerinta-ii" class="compunere-container"></div>
+    </div>
+
+    <!-- Bară de progres + submit -->
+    <div class="bottom-bar">
+      <div class="progres-global">
+        <div class="progres-fill" id="progres-fill" style="width:0%"></div>
+      </div>
+      <div class="bottom-actions">
+        <span id="punctaj-curent">0 / 100 puncte</span>
+        <button class="btn-submit" id="btn-finalizeaza" onclick="finalizeazaExamenul()">
+          <span class="material-icons-round">check_circle</span>
+          Finalizează
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== ECRAN REZULTATE ===== -->
+  <section id="ecran-rezultate" class="ecran">
+    <div class="rezultate-container" id="rezultate-content">
+      <!-- Se populează din JS -->
+    </div>
+  </section>
+
+  <!-- ===== ASISTENT PROFESOR ===== -->
+  <button class="fab-profesor" id="fab-profesor" onclick="toggleProfesor()">
+    <span class="material-icons-round">school</span>
+  </button>
+  <div class="profesor-panel" id="profesor-panel">
+    <div class="profesor-header">
+      <div class="profesor-avatar">👩‍🏫</div>
+      <div>
+        <h3>Prof. de Română</h3>
+        <span class="online-dot"></span> <small>Online</small>
+      </div>
+      <button class="btn-icon" onclick="toggleProfesor()"><span class="material-icons-round">close</span></button>
+    </div>
+    <div class="profesor-chat" id="profesor-chat">
+      <div class="msg-profesor">Bună! Sunt aici să te ajut cu pregătirea pentru EN. Întreabă-mă orice despre gramatică,
+        figuri de stil, structura examenului sau strategii de rezolvare! 😊</div>
+    </div>
+    <div class="profesor-input">
+      <input type="text" id="profesor-input" placeholder="Scrie o întrebare..."
+        onkeydown="if(event.key==='Enter')trimiteProfesor()" />
+      <button onclick="trimiteProfesor()"><span class="material-icons-round">send</span></button>
+    </div>
+    <div class="profesor-quick">
+      <button onclick="intrebaProfesor('Cum rezolv cerința 5 (Adevărat/Fals)?')">A/F tips</button>
+      <button onclick="intrebaProfesor('Cum identific figurile de stil?')">Figuri stil</button>
+      <button onclick="intrebaProfesor('Cum structurez textul argumentativ?')">Argumentativ</button>
+      <button onclick="intrebaProfesor('Ce greșeli frecvente trebuie să evit?')">Greșeli</button>
+    </div>
+  </div>
+
+  <script src="variante_examen.js" charset="utf-8"></script>
+  <script src="app_v2.js" charset="utf-8"></script>
+</body>
+
+</html>
